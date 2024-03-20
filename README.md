@@ -14,8 +14,6 @@
 
 - ❓ Ask me about my favorite visualization software  
   
-
--   
   
 
 <br/>  
