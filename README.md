@@ -15,7 +15,7 @@
 - ❓ Ask me about my favorite visualization software  
   
   
-
+- 📈 [Click here](https://github.com/Rachelise?tab=repositories) to view my data analysis projects!
 <br/>  
 
 
