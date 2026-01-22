@@ -1,9 +1,6 @@
 <div align="center">
 <img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Rachel, an aspiring Business Intelligence Analyst.</div>  
+</div> 
   
 
 - 📊 Data Analyst | Power BI/Power Platform  
