@@ -6,17 +6,11 @@
 ### <div align="center">I'm Rachel, an aspiring Business Intelligence Analyst.</div>  
   
 
-- 📊 I recently completed a comprehensive certificate program in data analytics, SQL and data visualization.   
+- 📊 Data Analyst | Power BI/Power Platform  
   
 
-- 🏋️‍♀️I have competed in Olympic Weightlifting and Jiu Jitsu  
+- ⭐ Data Model > Vibes 
   
-
-- ❓ Ask me about my favorite visualization software  
-  
-  
-- 📈 [Click here](https://github.com/Rachelise?tab=repositories) to view my data analysis projects!
-<br/>  
 
 
 ## My Skill Set  
@@ -28,8 +22,7 @@
 
 <div align="center">  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="50" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>   
 </div>
 
 </td><td valign="top" width="33%">
