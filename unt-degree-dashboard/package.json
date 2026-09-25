@@ -1,0 +1,11 @@
+{
+  "name": "unt-degree-dashboard",
+  "private": true,
+  "description": "Degree progress dashboard for the UNT BAAS, fed by a Notion Degree Audit database.",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "sync": "node scripts/sync-notion.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test test/*.test.mjs"
+  }
+}
